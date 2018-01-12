@@ -1,0 +1,27 @@
+{
+  "all": {
+    "playMode": {
+      "shuffle": true
+    },
+    "favorite": "Doorbell",
+    "players": [
+      {
+        "roomName": "Office",
+        "volume": 20
+      },
+      {
+        "roomName": "Kitchen",
+        "volume": 20
+      },
+      {
+        "roomName": "Bathroom",
+        "volume": 20
+      },
+      {
+        "roomName": "Living Room",
+        "volume": 20
+      }
+    ],
+    "pauseOthers": true
+  }
+}
